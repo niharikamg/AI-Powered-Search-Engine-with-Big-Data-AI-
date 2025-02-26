@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+elasticsearch
+requests
+numpy
+scikit-learn
+pandas
